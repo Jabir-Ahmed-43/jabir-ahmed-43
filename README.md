@@ -64,5 +64,5 @@ Computer Science & Engineering undergraduate specializing in **end-to-end web ar
 
 <div align="center">
   <br />
-  <sub>Let's connect on <a href="https://linkedin.com/in/jabir-ahmed-mja43">LinkedIn</a>, <a href="https://discord.gg/_jabir_ahmed_">Discord</a>, or via <a href="mailto:jabir.ahmed484@gmail.com">Email</a>.</sub>
+  <sub>Let's connect on <a href="https://linkedin.com/in/jabir-ahmed-mja43">LinkedIn</a>, <a href="https://discord.com/users/630939467183685643">Discord</a>, or via <a href="mailto:jabir.ahmed484@gmail.com">Email</a>.</sub>
 </div>
