@@ -37,8 +37,8 @@ Computer Science & Engineering undergraduate specializing in **end-to-end web ar
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
 | **RAG Library System** | Intelligent library management platform featuring semantic search and context-aware Q&A powered by Retrieval-Augmented Generation. | `Next.js` `TypeScript` `RAG` `Docker` | [Repo](#) · [Live](#) |
-| **OJHub** | Full-stack online judge & contest platform with Google role-based auth, structured MongoDB schemas, live contest timers, and automated Codeforces problem fetching & judging. | `React` `Node.js` `MongoDB` `Firebase` `Puppeteer` `Judge0` | [Repo](https://github.com/jabir-ahmed-543/OJHub)|
-| **Savor Restaurant** | Full-stack restaurant ordering & management platform featuring Next.js App Router APIs, role-based access, live stock toggling, reservations, and MongoDB aggregation analytics. | `Next.js` `MongoDB` `Better Auth` `Tailwind` | [Repo](https://github.com/jabir-ahmed-543/Savor-Restaurant) · [Live](https://savor-restaurant-theta.vercel.app/) |
+| **OJHub** | Full-stack online judge & contest platform with Google role-based auth, structured MongoDB schemas, live contest timers, and automated Codeforces problem fetching & judging. | `React` `Node.js` `MongoDB` `Firebase` `Puppeteer` `Judge0` | [Repo](https://github.com/jabir-ahmed-43/OJHub)|
+| **Savor Restaurant** | Full-stack restaurant ordering & management platform featuring Next.js App Router APIs, role-based access, live stock toggling, reservations, and MongoDB aggregation analytics. | `Next.js` `MongoDB` `Better Auth` `Tailwind` | [Repo](https://github.com/jabir-ahmed-43/Savor-Restaurant) · [Live](https://savor-restaurant-theta.vercel.app/) |
 
 ---
 
