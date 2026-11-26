@@ -16,7 +16,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&vCenter=true&width=435&lines=Jabir+Ahmed;Full-Stack+Developer;CSE+Undergraduate;Learning+Docker" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&pause=500&color=26E1AEFF&center=true&vCenter=true&width=735&lines=Jabir+Ahmed;Full-Stack+Developer;CSE+Undergraduate;Learning+Docker" alt="Typing SVG" />
   </a>
 </div>
 
@@ -55,12 +55,25 @@ Computer Science & Engineering undergraduate specializing in **end-to-end web ar
 
 ---
 
-### Activity
+###
 
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jabir-ahmed-43&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jabir-ahmed-43&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e" alt="Top Languages" />
+<h3 data-importer="text" align="left">🔥   My Stats :</h3>
+
+###
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jabir-ahmed-43&show_icons=true&include_all_commits=true&count_private=true&theme=nightowl" alt="Jabir Ahmed's GitHub Stats" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jabir-ahmed-43&layout=compact&theme=nightowl" alt="Most Used Languages" />
+</p>
+
+
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=jabir-ahmed-43&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3&theme=nightowl" height="220" alt="streak graph"  />
 </div>
+
+###
+
 
 <div align="center">
   <br />
